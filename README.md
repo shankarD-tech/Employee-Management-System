@@ -98,4 +98,3 @@ To provide an efficient database solution for managing employee and department i
 
 Shankar D
 
-This format is suitable for adding to your GitHub repository README, project report, or portfolio.
